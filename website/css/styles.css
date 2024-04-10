@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(185, 221, 123);
+    color: rgb(54, 31, 2);
+    /*text colour*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+a {
+    color: rgb(192, 27, 87);
+}
+
+a:visited {
+    color: darkorange;
+}
+
+img {
+    border: 5px solid rgb(130, 94, 17);
+    padding: 3px;
+    margin: 5px;
+    /*centres stuff*/
+    /* display: block;
+    margin: auto; */
+}
+
+.imgcenter {
+    display: block;
+    margin: auto;
+}
+
+.rizz {
+    border: 10px solid darkolivegreen;
+    display: block;
+    margin: auto;
+}
+
+.rizz:hover {
+    border: 20px solid red;
+}
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}

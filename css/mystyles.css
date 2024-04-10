@@ -1,0 +1,16 @@
+body{
+    font-family: Papyrus;
+}
+.site-heading-lower{
+    font-family: Papyrus;
+}
+.mb-3{
+    font-family: Papyrus;
+    color: aquamarine !important;
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 5px 5px 10px black;
+}
